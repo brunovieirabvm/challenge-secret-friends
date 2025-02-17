@@ -31,14 +31,4 @@ Este é um simples jogo de Amigo Secreto desenvolvido em JavaScript, HTML e CSS.
 - **CSS**: Estilo visual básico para tornar a interface mais amigável.
 - **JavaScript**: Lógica de controle do jogo, manipulação da lista de amigos e sorteio.
 
-## Como Contribuir
-
-Se você encontrar algum bug ou quiser sugerir melhorias, fique à vontade para abrir um issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 **Divirta-se no seu sorteio de amigo secreto! 🎉**
